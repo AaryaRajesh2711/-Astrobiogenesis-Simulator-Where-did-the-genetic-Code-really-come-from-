@@ -19,7 +19,7 @@ Explore DNA and RNA survival on other worlds with this Streamlit simulator. Adju
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/yourusername/yourrepo.git
-````
+   ```
 
 2. **Navigate into the project folder**
    ```bash
@@ -55,5 +55,4 @@ streamlit run simulator.py
 2. Create a new branch (`git checkout -b feature/YourFeature`)
 3. Make your changes and test them
 4. Submit a pull request
-Do you want me to do that next?
 ```
