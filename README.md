@@ -47,3 +47,26 @@ Explain the default environments if needed.
 - **Titan Lake** – Liquid methane, low temperature
 - **Hot Spring** – High temperature, mineral-rich
 - **Deep Space** – Vacuum, extreme cold
+
+Navigate into the project folder
+cd yourrepo
+
+Install dependencies
+pip install -r requirements.txt
+
+Run the Streamlit app:
+
+streamlit run simulator.py
+
+Steps:
+Select a planet preset from the sidebar
+Choose an energy source (lightning, geothermal vents, cosmic radiation)
+Adjust temperature, pH, and minerals as desired
+Observe DNA/RNA survival and evolution plots
+
+Planet Presets:
+Mars Surface – Cold, dry, low pressure
+Europa Ocean – Subsurface ocean, moderate salts
+Titan Lake – Liquid methane, low temperature
+Hot Spring – High temperature, mineral-rich
+Deep Space – Vacuum, extreme cold
