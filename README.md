@@ -6,7 +6,6 @@ Explore DNA and RNA survival on other worlds with this Streamlit simulator. Adju
 - [Usage](#usage)
 - [Planet Presets](#planet-presets)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Simulate DNA and RNA stability across different planetary environments
