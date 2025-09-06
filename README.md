@@ -13,60 +13,47 @@ Explore DNA and RNA survival on other worlds with this Streamlit simulator. Adju
 - Predefined planet presets: Mars, Europa, Titan, Hot Springs, Deep Space
 - Energy source effects: lightning, geothermal vents, cosmic radiation
 - Interactive plots using Plotly
+---
 
 ## Installation
-1. Clone the repository:
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/yourusername/yourrepo.git
+````
 
-
-### 6. **Usage**
-How to run it and examples.
-
-```markdown
+2. **Navigate into the project folder**
+   ```bash
+   cd yourrepo
+   ```
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+---
 ## Usage
 Run the Streamlit app:
 ```bash
 streamlit run simulator.py
-Select a planet preset
-Choose an energy source
-Observe the DNA/RNA survival plots
-
-pgsql
-Copy code
-
+```
+**Steps:**
+1. Select a planet preset from the sidebar
+2. Choose an energy source (lightning, geothermal vents, cosmic radiation)
+3. Adjust temperature, pH, and minerals as desired
+4. Observe DNA/RNA survival and evolution plots
 ---
-
-### 7. **Planet Presets (optional section)**
-Explain the default environments if needed.
-
-```markdown
 ## Planet Presets
-- **Mars Surface** – Cold, dry, low pressure
-- **Europa Ocean** – Subsurface ocean, moderate salts
-- **Titan Lake** – Liquid methane, low temperature
-- **Hot Spring** – High temperature, mineral-rich
-- **Deep Space** – Vacuum, extreme cold
 
-Navigate into the project folder
-cd yourrepo
+* **Mars Surface** – Cold, dry, low pressure
+* **Europa Ocean** – Subsurface ocean, moderate salts
+* **Titan Lake** – Liquid methane, low temperature
+* **Hot Spring** – High temperature, mineral-rich
+* **Deep Space** – Vacuum, extreme cold
 
-Install dependencies
-pip install -r requirements.txt
+## Contributing
 
-Run the Streamlit app:
-
-streamlit run simulator.py
-
-Steps:
-Select a planet preset from the sidebar
-Choose an energy source (lightning, geothermal vents, cosmic radiation)
-Adjust temperature, pH, and minerals as desired
-Observe DNA/RNA survival and evolution plots
-
-Planet Presets:
-Mars Surface – Cold, dry, low pressure
-Europa Ocean – Subsurface ocean, moderate salts
-Titan Lake – Liquid methane, low temperature
-Hot Spring – High temperature, mineral-rich
-Deep Space – Vacuum, extreme cold
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Make your changes and test them
+4. Submit a pull request
+Do you want me to do that next?
+```
