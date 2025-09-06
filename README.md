@@ -55,4 +55,3 @@ streamlit run simulator.py
 2. Create a new branch (`git checkout -b feature/YourFeature`)
 3. Make your changes and test them
 4. Submit a pull request
-```
