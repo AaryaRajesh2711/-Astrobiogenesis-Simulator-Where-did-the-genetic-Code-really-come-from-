@@ -1,0 +1,13 @@
+# Core
+streamlit==1.25.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+plotly~=5.15.0
+
+# Optional: for exporting plots as images
+plotly[kaleido]
+
+# Misc utilities (if used in your code)
+scipy>=1.11.0
