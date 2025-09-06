@@ -55,12 +55,12 @@ streamlit run simulator.py
 3. Make your changes and test them
 4. Submit a pull request
 
-##INPUT:
+## INPUT
 <img width="377" height="919" alt="inp1" src="https://github.com/user-attachments/assets/20fb4f84-fb51-4f94-ae4f-2da0db5ed7c7" />
 <img width="368" height="912" alt="inp2" src="https://github.com/user-attachments/assets/b33d3083-7f9c-4e01-a267-1ca424ca87a5" />
 <img width="382" height="907" alt="inp3" src="https://github.com/user-attachments/assets/487535ab-2c84-4a1a-9453-7475483d6dd7" />
 
-##OUTPUT:
+## OUTPUT
 <img width="1232" height="868" alt="output1" src="https://github.com/user-attachments/assets/c2e71091-9862-4a78-9f21-b172970edf0a" />
 <img width="1225" height="367" alt="output2" src="https://github.com/user-attachments/assets/9291d134-7ecc-463d-9889-6793e0a162af" />
 <img width="1221" height="783" alt="output3" src="https://github.com/user-attachments/assets/9c222a28-8541-4123-a928-1e1b923e6cf1" />
